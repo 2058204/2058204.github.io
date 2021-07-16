@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+#itohara {
+    float: left;
+    width: 100%;
+    height: 25px;
+    background-color: yellow;
+}
+
+#marte {
+    float: left;
+    width: 100%;
+    height: 25px;
+    background-color: orange;
+}
+
+#ohyama {
+    float: left;
+    width: 100%;
+    height: 25px;
+    background-color: rgb(141, 141, 236);
+}
+
+#sands {
+    float: left;
+    width: 100%;
+    height: 25px;
+    background-color: blue;
+}
+
+#sato {
+    float: left;
+    width: 100%;
+    height: 25px;
+    background-color: red;
+}
+
+#umeno {
+    float: left;
+    width: 100%;
+    height: 25px;
+    background-color: rgb(48, 13, 245);
+}
